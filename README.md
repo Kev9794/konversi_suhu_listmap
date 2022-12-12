@@ -14,3 +14,16 @@ Konversi Farenheit:
 <img src="ss/farenheit.jpeg" alt="ss 1" style="width:200px;"/>  
 Konversi Reamur:  
 <img src="ss/reamur.jpeg" alt="ss 1" style="width:200px;"/>  
+
+## Tugas Konversi Tanpa Button  
+  
+Tampilan Awal:  
+<img src="ss/awal2.jpeg" alt="ss 1" style="width:200px;"/>  
+Input Data:  
+<img src="ss/input2.jpeg" alt="ss 1" style="width:200px;"/>  
+Konversi Kelvin:  
+<img src="ss/kelvin2.jpeg" alt="ss 1" style="width:200px;"/>  
+Konversi Farenheit:  
+<img src="ss/farenheit2.jpeg" alt="ss 1" style="width:200px;"/>  
+Konversi Reamur:  
+<img src="ss/reamur2.jpeg" alt="ss 1" style="width:200px;"/>  
