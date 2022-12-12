@@ -7,12 +7,14 @@ class DropdownKonversi extends StatelessWidget {
       required this.dropdownOnChanged,
       required this.changeValue,
       required this.listItem,
-      required this.newValue})
+      required this.newValue,
+      required this.konversiSuhu})
       : super(key: key);
   final Function dropdownOnChanged;
   final changeValue;
   final newValue;
   final List<String> listItem;
+  final Function konversiSuhu;
   @override
   Widget build(BuildContext context) {
     return DropdownButton<String>(
@@ -25,6 +27,7 @@ class DropdownKonversi extends StatelessWidget {
       value: newValue,
       onChanged: (changeValue) {
         dropdownOnChanged(changeValue!);
+        konversiSuhu();
       },
     );
   }

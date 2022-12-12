@@ -67,9 +67,9 @@ class _MyAppState extends State<MyApp> {
                 dropdownOnChanged: dropdownOnChanged,
                 changeValue: changeValue,
                 listItem: listItem,
-                newValue: newValue),
+                newValue: newValue,
+                konversiSuhu: konversiSuhu),
             Result(result: result),
-            Convert(konversiSuhu: konversiSuhu),
             Container(
               margin: EdgeInsets.all(8),
               child: Text(
