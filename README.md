@@ -1,16 +1,29 @@
 # konversi_suhu_listmap
 
-A new Flutter project.
+Nama:Kevin Natanael Wijaya  
+Kelas:TI-3B  
+NIM:2041720091  
+  
+Tampilan Awal:  
+<img src="ss/awal.jpeg" alt="ss 1" style="width:200px;"/>  
+Input Data:  
+<img src="ss/input.jpeg" alt="ss 1" style="width:200px;"/>  
+Konversi Kelvin:  
+<img src="ss/kelvin.jpeg" alt="ss 1" style="width:200px;"/>  
+Konversi Farenheit:  
+<img src="ss/farenheit.jpeg" alt="ss 1" style="width:200px;"/>  
+Konversi Reamur:  
+<img src="ss/reamur.jpeg" alt="ss 1" style="width:200px;"/>  
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tugas Konversi Tanpa Button  
+  
+Tampilan Awal:  
+<img src="ss/awal2.jpeg" alt="ss 1" style="width:200px;"/>  
+Input Data:  
+<img src="ss/input2.jpeg" alt="ss 1" style="width:200px;"/>  
+Konversi Kelvin:  
+<img src="ss/kelvin2.jpeg" alt="ss 1" style="width:200px;"/>  
+Konversi Farenheit:  
+<img src="ss/farenheit2.jpeg" alt="ss 1" style="width:200px;"/>  
+Konversi Reamur:  
+<img src="ss/reamur2.jpeg" alt="ss 1" style="width:200px;"/>  
